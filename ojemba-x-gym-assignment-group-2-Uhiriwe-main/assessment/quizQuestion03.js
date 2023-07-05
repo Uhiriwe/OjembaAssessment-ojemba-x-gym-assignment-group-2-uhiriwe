@@ -6,7 +6,8 @@
 
 - [ ] false
 - [ ] NaN
-- [ ] true
+- [ x] true
 - [ ] undefined
 - [ ] null
  */
+

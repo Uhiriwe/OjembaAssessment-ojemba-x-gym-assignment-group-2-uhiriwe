@@ -10,7 +10,7 @@
 return 1 == true;
 
 /**
- * - [ ] true
+ * - [ x] true
  * - [ ] false
  */
 
@@ -20,7 +20,7 @@ return 0 === false;
 
 /**
  * - [ ] true
- * - [ ] false
+ * - [ x] false
  */
 
 /**--01.03-----------------------------------------------------*/
@@ -29,7 +29,7 @@ return null == 0;
 
 /**
  * - [ ] true
- * - [ ] false
+ * - [ x] false
  */
 
 /**--01.04----------------------------------------------------*/
@@ -37,7 +37,7 @@ return null == 0;
 return null == undefined;
 
 /**
- * - [ ] true
+ * - [x ] true
  * - [ ] false
  */
 
@@ -46,7 +46,7 @@ return null == undefined;
 return null === undefined;
 
 /**
- * - [ ] true
+ * - [x ] true
  * - [ ] false
  */
 
@@ -56,7 +56,7 @@ return "" == null;
 
 /**
  * - [ ] true
- * - [ ] false
+ * - [x ] false
  */
 
 /**--01.07-----------------------------------------------------*/
@@ -65,7 +65,7 @@ return "" === null;
 
 /**
  * - [ ] true
- * - [ ] false
+ * - [ x] false
  */
 
 /**--01.08-----------------------------------------------------*/
@@ -73,7 +73,7 @@ return "" === null;
 return "0" == 0;
 
 /**
- * - [ ] true
+ * - [ x] true
  * - [ ] false
  */
 
@@ -82,7 +82,7 @@ return "0" == 0;
 return "1" >= 0;
 
 /**
- * - [ ] true
+ * - [ x] true
  * - [ ] false
  */
 
@@ -92,7 +92,7 @@ return "banana" >= null;
 
 /**
  * - [ ] true
- * - [ ] false
+ * - [ x] false
  */
 
 /**---------------------You made it :)-------------------------*/

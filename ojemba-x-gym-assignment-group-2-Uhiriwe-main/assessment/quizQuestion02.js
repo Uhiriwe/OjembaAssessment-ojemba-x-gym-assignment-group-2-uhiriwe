@@ -5,7 +5,8 @@
  * Mark your answer with a `[x]` instead of `[ ]`
 
 - [ ] <h6>
-- [ ] <h1>
+- [x ] <h1>
 - [ ] <heading>
 - [ ] <head>
  */
+
