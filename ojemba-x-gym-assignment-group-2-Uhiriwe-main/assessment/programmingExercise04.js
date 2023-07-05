@@ -12,3 +12,4 @@
  * Optional: Add two more animals plus the noise they make to this function.
  */
 
+function =Array['']
