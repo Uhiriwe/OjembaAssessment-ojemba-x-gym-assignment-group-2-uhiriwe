@@ -7,3 +7,14 @@
  *
  * Hint: A prime number is a number that is only divisable by 1 and by itself. For example: 2, 3, 7, 13 are prime numbers
  */
+function isPrime(checkMe) {
+    var sqrcheckMe=Math.floor(Math.sqrt(checkMe));
+      var prime = checkMe != 1;
+      for(var i=2; i<sqrcheckMe+1; i++) { 
+          if(!checkMe % i == 0) {
+              prime = true;
+              break;
+          }
+      }
+      return prime;
+  }

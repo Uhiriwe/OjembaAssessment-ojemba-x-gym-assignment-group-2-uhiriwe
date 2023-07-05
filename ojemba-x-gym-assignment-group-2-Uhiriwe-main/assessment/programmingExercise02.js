@@ -8,4 +8,8 @@
  * Feel free to write down the steps you are taking to simplify the statement.
  */
 
-const solution =
+const solution = !isCat && !isDog// false;
+/*isCat=true;
+isDog=true;
+when we write !isCat = false and when we write !isDog will be also false.
+so in boolean logically false && false == false*/
